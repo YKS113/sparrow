@@ -1,0 +1,22 @@
+{
+  "name": "sparrow",
+  "version": "1.0.0",
+  "description": "small, fast, in-memory, key-value based database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YKS113/sparrow.git"
+  },
+  "keywords": [
+    "DB","Database","key-value","in-memory","in-process","dictionary"
+  ],
+  "author": "Yash Kishor Sonar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YKS113/sparrow/issues"
+  },
+  "homepage": "https://github.com/YKS113/sparrow#readme"
+}
